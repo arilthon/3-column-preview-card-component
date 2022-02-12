@@ -18,7 +18,7 @@ main {
   margin: 2rem;
 }
 .container {
-  width: 19.188rem;
+  max-width: 19.188rem;
   height: 31.25rem;
   padding: 48px;
 }
